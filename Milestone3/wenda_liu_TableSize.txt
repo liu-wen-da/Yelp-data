@@ -1,0 +1,8 @@
+attributes 227536 rows
+business 11481 rows
+categories 33619 rows
+checkins 481360 rows
+friend 1052706 rows
+hours 55502 rows
+reviews 416479 rows
+users 192999 rows
